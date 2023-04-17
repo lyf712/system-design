@@ -8,6 +8,7 @@
   <modules>
     <module>concurrent-problem</module>
     <module>available-problem</module>
+      <module>jdk-source-analysis</module>
   </modules>
   <packaging>pom</packaging>
 

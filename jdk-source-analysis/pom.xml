@@ -7,18 +7,22 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>available-problem</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>jdk-source-analysis</artifactId>
+    <packaging>pom</packaging>
 
-    <name>available-problem</name>
+    <name>jdk-source-analysis</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>jdk1.7</module>
+        <module>jdk1.8</module>
+        <module>jdk16</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
-        <!--单测-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -31,21 +35,5 @@
             <version>4.13.1</version>
             <scope>compile</scope>
         </dependency>
-
-        <!--隔离开源组件-->
-        <dependency>
-            <groupId>com.netflix.hystrix</groupId>
-            <artifactId>hystrix-core</artifactId>
-            <version>1.5.18</version>
-        </dependency>
-        <!--分析servlet3异步化处理隔离-->
-        <dependency>
-            <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.58</version>
-        </dependency>
-
-
-
     </dependencies>
 </project>
