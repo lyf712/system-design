@@ -7,7 +7,17 @@
 
 ## 二、整理目录
 
+### 结构目录
 
+module:
+
+      <module>jdk-source-analysis(JDK设计分析)</module>
+      <module>concurrent-problem(并发问题)</module>
+      <module>available-problem(可用性问题)</module>
+      <module>extension-problem(可拓展性问题)</module>
+
+
+### 
 
 ## 三、前置基础
 
@@ -61,3 +71,16 @@
 - 预案处理
 
 ## 六、相关书籍、文章
+
+## 七、相关案例剖析
+
+### 业务场景类
+
+- mall商城的业务场景进行剖析（典型的秒杀~）
+- novel小说屋业务场景剖析
+- 即时通信IM系统分析
+
+### 中间件类剖析
+
+- spring
+- dubbo、MQ

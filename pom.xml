@@ -9,6 +9,9 @@
     <module>concurrent-problem</module>
     <module>available-problem</module>
       <module>jdk-source-analysis</module>
+      <module>jdk-source-analysis/jdk1.2</module>
+      <module>jdk-source-analysis/jdk1.5</module>
+      <module>extension-problem</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -28,6 +31,5 @@
       <artifactId>guava</artifactId>
       <version>${guava.version}</version>
     </dependency>
-
   </dependencies>
 </project>
