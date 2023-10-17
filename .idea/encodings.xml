@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/concurrent-problem/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extension-problem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/extension-problem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fs-design/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fs-design/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk1.2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk1.2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk1.5/src/main/java" charset="UTF-8" />
@@ -17,6 +19,8 @@
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk1.8/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk16/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk16/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk21/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk-source-analysis/jdk21/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdk-source-analysis/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

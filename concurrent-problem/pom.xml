@@ -40,6 +40,11 @@
             <artifactId>redisson</artifactId>
             <version>3.16.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
+        </dependency>
         <!--#######池化技术相关依赖########-->
         <dependency>
             <groupId>commons-dbcp</groupId>
@@ -53,11 +58,5 @@
         </dependency>
 
 
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13.1</version>
-            <scope>compile</scope>
-        </dependency>
     </dependencies>
 </project>
