@@ -41,6 +41,7 @@ public class NullTests {
         // Optional的使用
         com.google.common.base.Optional<Integer> optional = com.google.common.base.Optional.of(1);
         optional.isPresent();
+
         //optional.or()
     }
 }
